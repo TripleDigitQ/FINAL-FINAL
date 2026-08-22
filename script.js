@@ -81,7 +81,7 @@ const locations = [
   'Ravnkilde Skole (Skolegade / Rebild Kommune)',
   'Nørager Station (Rebild Kommune)',
   'Hjallerup Busterminal',
-  'Suldrup Centrum',
+  'Svenstrup Station (Hobrovej)',
   'Vognsild (Smedevej / Vesthimm. komm.)',
 ];
 
