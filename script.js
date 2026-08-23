@@ -75,7 +75,7 @@ const locations = [
   'Gatten (Stationvej / Vesthimm. Komm.)',
   'Ullits (Nibevej / Vesthimm. Komm.)',
   'Aalestrup Busterminal/ Vesthimm. Komm.)',
-  'Viborg Rtb.',
+  'Østerbrogade (Bredgade / Løgstør)',
   'Hvalpsund Havn (Vesthimm. Komm.)',
   'Haverslev Pendlerparkering (Rebild Kommune)',
   'Ravnkilde Skole (Skolegade / Rebild Kommune)',
