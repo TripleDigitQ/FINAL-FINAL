@@ -65,7 +65,7 @@ const locations = [
   'Michael Simonsensvej (Sønderport / Vesthim. komm)',
   'Løgstør Skole (Sønderport / Løgstør)',
   'Løgstør Øst (Aalborgvej / Vesthimmerlands Komm.)',
-  'Raunstrup (Viborgvej / Vesthimm. Komm.)',
+  'Hans Egedes vej / Vesthimm. Komm.)',
   'Malle (Viborgvej / Vesthimm. Komm.)',
   'Ranum skole (Ranumvej / Vesthimmerland Komm.)',
   'Sygehuset (Nørregade / Farsø / Vesthimmerland)',
